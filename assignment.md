@@ -11,9 +11,6 @@
 Configure the root of your repository with the following files and directories. Thoughtfully name and organize any additional configuration or module files.
 
 * 01-what-is-scope.md
-* 02-lexical-scope.md
-* 03-function-vs-block-scope.md
-* 04-hoisting.md
 
 ## Feature Tasks
 Write the questions and answers for the quizes in the corresponding 'You Don't Know JS: Scope & Closures' chapter.
